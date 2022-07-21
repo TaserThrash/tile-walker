@@ -1,5 +1,5 @@
 
-var s = 16;
+var s = 40;
 var tiles = [];
 var walls = [];
 var x = 00;
