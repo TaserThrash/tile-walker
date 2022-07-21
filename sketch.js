@@ -90,12 +90,6 @@ function mousePressed(){
     }
   }
 
-  for(let i of tiles){
-    if(x + xx ==  i.x && y + yy ==  i.y){
-      return;
-    }
-  }//*/
-
   
 
   if(xx == 2 && yy == 1){
